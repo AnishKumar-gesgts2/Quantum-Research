@@ -190,6 +190,7 @@
   },
   "active": "d366218a0389895d",
   "lastOpenFiles": [
+<<<<<<< Updated upstream
     "GBS Classical Simulation/outputs/skeptical_audit_v1/summary.json",
     "GBS Classical Simulation/outputs/skeptical_audit_v1/results.json",
     "GBS Classical Simulation/outputs/skeptical_audit_v1/matched_cost_summary.json",
@@ -201,6 +202,23 @@
     "GBS Classical Simulation/outputs/skeptical_audit_v1",
     "GBS Classical Simulation/outputs/selective_correction_v1/verification.json",
     "GBS Classical Simulation/outputs/selective_correction_v1/summary.json",
+=======
+    "GBS Classical Simulation/Jiuzhang 4 Phase-Space Challenge Research Specification.md",
+    "GBS Classical Simulation/outputs/skeptical_audit_v1/environment.json",
+    "GBS Classical Simulation/outputs/skeptical_audit_v1/artifact_manifest.json",
+    "GBS Classical Simulation/Skeptical Audit and Stronger Benchmarks.md",
+    "GBS Classical Simulation/work/gbs_skeptical_report.py",
+    "GBS Classical Simulation/outputs/skeptical_audit_v1/matched_cost_summary.json",
+    "GBS Classical Simulation/outputs/skeptical_audit_v1/matched_costs.json",
+    "GBS Classical Simulation/outputs/skeptical_audit_v1/matched_cost_spec.json",
+    "GBS Classical Simulation/work/__pycache__/gbs_selective_cost_audit.cpython-311.pyc",
+    "GBS Classical Simulation/work/__pycache__/gbs_skeptical_audit.cpython-311.pyc",
+    "GBS Classical Simulation/work/gbs_skeptical_matched_costs.py",
+    "GBS Classical Simulation/outputs/skeptical_audit_v1/summary.json",
+    "GBS Classical Simulation/Correlation-Based Classical Simulation of GBS.md",
+    "GBS Classical Simulation/work/SELECTIVE_STUDY_README.md",
+    "GBS Classical Simulation/First Research Draft.md",
+>>>>>>> Stashed changes
     "GBS Classical Simulation/outputs/selective_correction_v1/accuracy_cost.png",
     "GBS Classical Simulation/Skeptical Audit and Stronger Benchmarks.md",
     "GBS Classical Simulation/First Research Draft.md",
