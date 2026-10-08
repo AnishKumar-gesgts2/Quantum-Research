@@ -5,6 +5,7 @@ This Obsidian vault contains separate projects in quantum information science an
 ## Active research
 
 - [[BlueQubit Track 2 Submission Status|BlueQubit Track 2 application milestone]] — readiness, remaining submission work, and deadline verification.
+- [[BlueQubit Track 2 Grant Form Responses|BlueQubit Track 2 grant form responses]] — draft abstract, related work, resource requests, and application-form link.
 - [[Jiuzhang 4 Phase-Space Challenge Research Specification|Jiuzhang 4.0 phase-space challenge — active Track 2 specification]] — research-grade question, preregistered comparison, resource accounting, feasibility gates, and honest preliminary evidence.
 - [[GBS Classical Simulation Project Description|Adaptive correlation-based simulation of Gaussian boson sampling]] — project description, plain-language explanations, prototype, validation plan, and sources. Files are in `GBS Classical Simulation/`.
 - [[Correlation-Based Classical Simulation of GBS|GBS research plan and evidence]] — shorter technical plan and preliminary results.
