@@ -5,6 +5,7 @@ This Obsidian vault contains quantum photonics and quantum information research.
 - [Quantum Research index](Quantum%20Research.md)
 - [GBS classical-simulation project description](GBS%20Classical%20Simulation/GBS%20Classical%20Simulation%20Project%20Description.md)
 - [GBS research plan and preliminary evidence](GBS%20Classical%20Simulation/Correlation-Based%20Classical%20Simulation%20of%20GBS.md)
+- [GBS learning path and proposal workshop](GBS%20Classical%20Simulation/Learning/Learning%20Path.md) — twelve lessons with worked examples, exercises and answers, a glossary, and a progress tracker.
 
 ## Photonic decoder work
 
